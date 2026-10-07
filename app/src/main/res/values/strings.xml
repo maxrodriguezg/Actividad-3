@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">intento-dos</string>
+    <string name="tab_inicio">Inicio</string>
+    <string name="tab_cursos">Cursos</string>
+    <string name="tab_perfil">Perfil</string>
+    <string name="topbar_title">Edu App</string>
+</resources>
